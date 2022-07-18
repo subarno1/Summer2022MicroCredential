@@ -1,0 +1,22 @@
+# 1.
+
+favorshow = ['Sopranos', 'Burn Notice', 'Regular Show', 'Family Guy', 'Boondocks']
+print(favorshow)
+
+#3. 
+
+print(favorshow.sort())
+#the list is in alphabetical order
+
+#4
+
+print(favorshow)
+
+#5
+
+print(favorshow.sort(reverse=True))
+
+#6
+
+number = str(len(favorshow))
+print('I Have ' + number + ' favorite shows')
