@@ -1,0 +1,21 @@
+#1.
+person = ["james", 'henry', 'carl', 'ben', 'admin']
+
+for i in person:
+  if i == 'admin':
+    print("Welcome to the system admin")
+  else:
+    print('Welcome ' + i)
+#2.
+
+numbers = list(range(1,11))
+
+for number in numbers:
+    if number == 1:
+        print("1st")
+    elif number == 2:
+        print("2nd")
+    elif number == 3:
+        print("3rd")
+    else:
+        print(str(number) + "th")
