@@ -1,0 +1,21 @@
+#1.
+goodfood = ['candy', 'chocolate', 'meat', 'pizza', 'barbeque']
+
+#2. 
+for i in goodfood:
+  print(i)
+#3.
+for i in goodfood:
+  print(i + ' is totally my favorite thing to eat')
+#4. 
+for num in range(0,20,2):
+  print(num)
+#5. 
+goodfood.sort()
+
+#6.
+print(goodfood[0:3])
+
+#7. 
+for i in goodfood[3:5]:
+  print(i)
