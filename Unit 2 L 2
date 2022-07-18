@@ -1,0 +1,25 @@
+# 1. Python is a very efficient coding language that can be used in a multidude of different task across various careers
+
+# 2. All but D is allowed as a variable in python 
+
+#3. 
+
+string = "Hello There"
+
+#4. 
+
+First_name = "James"
+Last_name = "May"
+email = "@gmail.com"
+print(First_name + Last_name + email)
+
+#5.
+
+name = "James May"
+print(name.upper())
+print(name.lower())
+
+#6.
+
+hang = "Do you want to hangout on the 15th of this month"
+print(hang)
